@@ -1,0 +1,11 @@
+#include <conio.h> 
+
+void main() 
+{
+	clrscr();
+	textcolor(RED);
+	cprintf ("Welcome\n");
+	textcolor(LIGHTBLUE);
+	cputs("Polytechnic");
+	getch(); 
+}
